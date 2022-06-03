@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="048b0160-a0ca-43a2-a702-12b423615780" name="Changes" comment="Inf-VAE_pytorch">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="048b0160-a0ca-43a2-a702-12b423615780" name="Changes" comment="Inf-VAE_pytorch" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +154,7 @@
       <workItem from="1654134521408" duration="1194000" />
       <workItem from="1654136847834" duration="1321000" />
       <workItem from="1654139320367" duration="298000" />
-      <workItem from="1654263064259" duration="789000" />
+      <workItem from="1654263064259" duration="1294000" />
     </task>
     <task id="LOCAL-00001" summary="Inf-VAE_pytorch">
       <created>1654263346231</created>
@@ -165,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654263346232</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Inf-VAE_pytorch">
+      <created>1654264001750</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654264001750</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
