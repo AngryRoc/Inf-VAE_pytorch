@@ -6,7 +6,7 @@
 Integrate Homophily and Influence in Diffusion Prediction", International Conference on Web Search and Data Mining, <b>WSDM 2020</b>, Houston, TX, February 3-7, 2020.
 
 
-This repository contains a TensorFlow implementation of Inf-VAE: Influence Variational Autoencoder 
+This repository contains a Pytorch implementation of Inf-VAE: Influence Variational Autoencoder 
 for information diffusion prediction. 
 Inf-VAE model covariance of diffusion behaviors with both social network structure and 
 temporal cascade evolution.
@@ -40,7 +40,7 @@ The code has been tested running under Python 3.6 with the following packages in
 
 
 ```
-tensorflow==1.15.0
+pytorch==1.11.0
 numpy==1.18.1
 scipy==1.4.1
 networkx==2.4
