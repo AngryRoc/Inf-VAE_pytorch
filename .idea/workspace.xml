@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="048b0160-a0ca-43a2-a702-12b423615780" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27NZnEUDtIezuq9rNcPTVmJgIs3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Projects/pycharmProjects/Inf-VAE_pytorch_&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projects\pycharmProjects\Inf-VAE_pytorch\models" />
+      <recent name="$PROJECT_DIR$/utils" />
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Inf-VAE_pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/miniconda3/envs/pytorch/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="048b0160-a0ca-43a2-a702-12b423615780" name="Changes" comment="" />
+      <created>1649162668876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649162668876</updated>
+      <workItem from="1649162670336" duration="2972000" />
+      <workItem from="1649167032057" duration="3638000" />
+      <workItem from="1649219861280" duration="2626000" />
+      <workItem from="1649321937000" duration="2116000" />
+      <workItem from="1649411284589" duration="14982000" />
+      <workItem from="1649468556440" duration="13161000" />
+      <workItem from="1649501653396" duration="5424000" />
+      <workItem from="1650291474022" duration="8000" />
+      <workItem from="1650350863121" duration="1117000" />
+      <workItem from="1650377935343" duration="1634000" />
+      <workItem from="1650432169208" duration="49000" />
+      <workItem from="1650432527124" duration="11561000" />
+      <workItem from="1650448214487" duration="11827000" />
+      <workItem from="1650504152667" duration="4028000" />
+      <workItem from="1650509959780" duration="949000" />
+      <workItem from="1650521348011" duration="768000" />
+      <workItem from="1650535408522" duration="2664000" />
+      <workItem from="1650611550472" duration="288000" />
+      <workItem from="1651633011074" duration="5769000" />
+      <workItem from="1651655450319" duration="151000" />
+      <workItem from="1651656620941" duration="16263000" />
+      <workItem from="1651713682432" duration="5208000" />
+      <workItem from="1651720392932" duration="712000" />
+      <workItem from="1651737945659" duration="5280000" />
+      <workItem from="1651758760953" duration="6534000" />
+      <workItem from="1651800559616" duration="2607000" />
+      <workItem from="1651804070017" duration="2562000" />
+      <workItem from="1651807933937" duration="10000" />
+      <workItem from="1651937182444" duration="17000" />
+      <workItem from="1651937472157" duration="261000" />
+      <workItem from="1652090704049" duration="22000" />
+      <workItem from="1652453105661" duration="9639000" />
+      <workItem from="1652516220043" duration="4371000" />
+      <workItem from="1652529048322" duration="3332000" />
+      <workItem from="1652532688290" duration="22000" />
+      <workItem from="1652532837881" duration="972000" />
+      <workItem from="1652590491626" duration="33000" />
+      <workItem from="1652590541688" duration="7887000" />
+      <workItem from="1652612496822" duration="5828000" />
+      <workItem from="1653284475986" duration="5820000" />
+      <workItem from="1653292070441" duration="3276000" />
+      <workItem from="1653302011015" duration="3601000" />
+      <workItem from="1653313709378" duration="1531000" />
+      <workItem from="1653316454704" duration="3439000" />
+      <workItem from="1653366189862" duration="3522000" />
+      <workItem from="1653372506178" duration="4946000" />
+      <workItem from="1653391889708" duration="3965000" />
+      <workItem from="1653395929340" duration="1331000" />
+      <workItem from="1653400407032" duration="4679000" />
+      <workItem from="1653446464119" duration="862000" />
+      <workItem from="1653455535300" duration="11234000" />
+      <workItem from="1653467972949" duration="215000" />
+      <workItem from="1653468243431" duration="1030000" />
+      <workItem from="1653528737728" duration="2192000" />
+      <workItem from="1653633890727" duration="1678000" />
+      <workItem from="1653639856673" duration="975000" />
+      <workItem from="1654092307775" duration="63000" />
+      <workItem from="1654092483857" duration="631000" />
+      <workItem from="1654134521408" duration="1194000" />
+      <workItem from="1654136847834" duration="1321000" />
+      <workItem from="1654139320367" duration="298000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Inf_VAE_pytorch$train.coverage" NAME="train Coverage Results" MODIFIED="1653640468931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
